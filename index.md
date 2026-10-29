@@ -6,6 +6,7 @@
 
 ### Individual Drafts
 - [OAuth User Authorization Management URI](https://drafts.thisismissem.social/draft-emelia-oauth-user-authorization-mgmt-uri/draft-emelia-oauth-user-authorization-mgmt-uri.html) ([datatracker](https://datatracker.ietf.org/doc/draft-emelia-oauth-user-authorization-mgmt-uri/))
+- [OAuth Authorization Server Metadata Parameter for Requiring DPoP](https://drafts.thisismissem.social/draft-emelia-oauth-as-metadata-dpop-required/draft-emelia-oauth-as-metadata-dpop-required.html) (I-D pending publication)
 
 ---
 
